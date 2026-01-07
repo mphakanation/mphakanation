@@ -3,7 +3,7 @@
 Software engineer/Data Scientist
 - 🌱 I’m currently learning Diploma in IT
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me IG:@mphakanation Whatsapp 0658256622
+- 📫 How to reach me ... thudimphaka@gmail.com
 
 <!---
 mphakanation/mphakanation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
